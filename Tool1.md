@@ -5,4 +5,5 @@ Im Ausschnitt (s. Abb. 1 unten) finden Sie das Verzeichnis mit meinen Daten zu d
 Im Literaturverzeichnis ist dann z.T. noch ein p. das ist händisch zu korrigieren und auszubessern, das habe ich nicht automatisch geschafft. 
 Wichtig ist dass alles mögliche „aktualisiert“ wird, und dann vielleicht noch händisch kontrollieren ob überall S. statt p. und pp. steht.
 https://github.com/BernhardHeiden/Tools-Scientific-Writing
+
 ![Abb. 1](example.png)
